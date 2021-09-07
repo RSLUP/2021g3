@@ -15,6 +15,6 @@ let questions = [
     numb: 3,
     question: "Julie ________ living in Italy since May.",
     answer: "is being",
-    options: ["has being", "is been", "has been", "None of the above"],
+    options: ["has being", "is being", "has been", "None of the above"],
   },
 ];

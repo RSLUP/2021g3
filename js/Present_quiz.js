@@ -1,9 +1,9 @@
 let questions = [
   {
     numb: 1,
-    question: 'What is present tense of "Ate"',
-    answer: "Eat",
-    options: ["Eat", "Eaten", "All of the above", "None of the above"],
+    question: 'We _____ European',
+    answer: "are",
+    options: ["do be", "are", "do are", "is"],
   },
   {
     numb: 2,
@@ -25,7 +25,7 @@ let questions = [
   },
   {
     numb: 5,
-    question: "My parents lives in a bedroom apartment",
+    question: "My parents _______ in a bedroom apartment",
     answer: "live",
     options: ["live", "lives", "are live", "None of the above"],
   },
