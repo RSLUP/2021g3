@@ -36,7 +36,7 @@ Each grammar section contains a complete guide with usages. If you are confident
 
 ![Grammar Section Page](/images/readme4.png "Grammar Section Page")
 
-### Vocabualry
+### Vocabulary
 
 You may follow vocabulary in a _Beginner Level_ or _Intermediate Level_ according to your knowledge.
 
